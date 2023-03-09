@@ -1,0 +1,13 @@
+
+.classpath
+.dbeaver/project-settings.json
+.project
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+books.pdf
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/it.betacom/LibraryProject/pom.properties
+target/classes/META-INF/maven/it.betacom/LibraryProject/pom.xml
+target/test-classes/it/betacom/AppTest.class
+/target/
